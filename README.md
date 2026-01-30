@@ -1,5 +1,10 @@
 # Stenny
 
+Meet Stenny!
+<p align="center">
+  <img src="frontend/stenny.png" alt="Stenny's custom image" width="200"/>
+</p>
+
 Stenny is a minimalist real-time transcription application that turns your speech into text instantly. It uses a FastAPI backend powered by Whisper (via `faster-whisper`).
 
 ## ✨ Features
@@ -65,4 +70,4 @@ stenny/
 -   **Permissions**: If you get a "Could not access microphone" error, check your browser's site settings to ensure microphone permission is granted.
 
 ---
-Built with ❤️ by Antigravity.
+Built with support from Antigravity.
